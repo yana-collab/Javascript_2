@@ -23,12 +23,12 @@ outline: none;
 border: none;
 }
 
-.header-basket {
+.header-cart {
 border:1px solid black;
 height: 70px;
 }
 
-.basket {
+.cart {
     color: rgb(156, 146, 148);
     font-size: 16px;
     font-weight: 100;
